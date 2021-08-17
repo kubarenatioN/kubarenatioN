@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubarenatioN (Nick).
 - 👀 I’m interested in Front-end, Mobile Applications.
-- 🌱 I’m currently learning JS, C#(WPF), SQL, EntityFramework.
+- 🌱 I’m currently learning JS/Angular.
 - 📫 How to reach me: alwayswannaflyinbluesky@gmail.com
 
 <!---
