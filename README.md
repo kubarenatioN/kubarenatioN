@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kubarenatioN (Nick).
 - 👀 I’m interested in Front-end, Mobile Applications.
-- 🌱 I’m currently learning JS/Angular.
-- 📫 How to reach me: alwayswannaflyinbluesky@gmail.com
+- 🌱 Currently growing in Angular & NextJS web development.
+- 📫 How to reach me: kbrn.work@gmail.com
 
 <!---
 kubarenatioN/kubarenatioN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
